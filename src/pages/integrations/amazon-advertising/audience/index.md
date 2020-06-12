@@ -31,3 +31,11 @@ Advertiser ID	| `string` | <unset> | Your Amazon Advertising account's Advertisi
 Region | `string` | North America | The region where the target Amazon Marketplace is located
 Marketplace Profile	Name | `string` | <unset> | The name of the advertiser profile for the target marketplace
 Profile Name | `string` | <unset> | The name of the Amazon user linked to the Amazon Advertising account
+
+## Supported Ad Products
+
+Amazon Properties: Amazon.com, IMDb
+
+Amazon Devices: FireTV, Fire Tablet, Kindle
+
+Amazon DSP Supply: All of the above + third party publishers and apps across desktop, mobile, tablet, CTV via Amazon Publisher Services (header bidding) and SSPs
